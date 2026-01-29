@@ -101,7 +101,7 @@ h1 {
 	color: #fafafa;
 	width: 100%;
 }
-h5 {
+.h5 {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 18px;
@@ -149,7 +149,7 @@ main .button-white {
 	border: 1px solid #27272a;
 	border-radius: 6px;
 }
-.div-card-solutions h3 {
+.div-card-solutions h2 {
 	margin-top: 24px;
 	font-weight: 600;
 	font-size: 24px;
@@ -166,7 +166,7 @@ main .button-white {
 	display: flex;
 	flex-direction: column;
 }
-.div-instant-git h5 {
+.div-instant-git h2 {
 	margin-block: 24px;
 }
 .div-main-2 .button-white {
